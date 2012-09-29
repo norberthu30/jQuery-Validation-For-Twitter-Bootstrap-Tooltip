@@ -1,4 +1,6 @@
 jQuery-Validation-For-Twitter-Bootstrap-Tooltip
 ===============================================
 
-many error message with tooltip show
+add tow fucntionality:
+    1: cans show many error message.
+    2: bootstrap tooltip show error info.
